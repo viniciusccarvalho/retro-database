@@ -1,0 +1,1 @@
+inclide::platforms_mapping.adoc[]

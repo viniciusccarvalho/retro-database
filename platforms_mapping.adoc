@@ -1,0 +1,58 @@
+.Platforms from datfile
+[%header%footer,cols="1,4,6,1"]
+|=======================
+| Id | Name | Files |  Roms
+| 1 | Arcade | metadat/mame/MAME.dat (fbe8e3ee3f807ca47308221fd055313b ) ^| 30,038
+| 2 | Nintendo Entertainment System | metadat/no-intro/Nintendo - Nintendo Entertainment System.dat (44ca60db94e63b8782c01989606206e3 ) ^| 3,154
+| 3 | Nintendo Family Computer Disk System | metadat/no-intro/Nintendo - Family Computer Disk System.dat (32178aab352cf23ca4d94db25728855d ) ^| 631
+| 4 | Nintendo Game Boy | metadat/no-intro/Nintendo - Game Boy.dat (c265a4d561d727bf75f4877656b12879 ) ^| 1,722
+| 5 | Nintendo  Super Nintendo Entertainment System | metadat/no-intro/Nintendo - Super Nintendo Entertainment System.dat (28debef1673d3e800f333a044e2eb0cd ) ^| 3,778
+| 6 | Nintendo  Game Boy Color | metadat/no-intro/Nintendo - Game Boy Color.dat (2d728487a4cf4c9c271b13fb2778dea4 ) ^| 1,528
+| 7 | Nintendo  Virtual Boy | metadat/no-intro/Nintendo - Virtual Boy.dat (156a566cfa7ae65fed838e1601870002 ) ^| 33
+| 8 | Nintendo  Nintendo 64 | metadat/no-intro/Nintendo - Nintendo 64.dat (c95ba3ff3444445a74389fb8d5f7753c ) ^| 2,112
+| 9 | Nintendo  Game Boy Advance | metadat/no-intro/Nintendo - Game Boy Advance.dat (7539cba16acb5a0af0af63efa4404863 ) ^| 3,289
+| 10 | Nintendo  Nintendo DS | metadat/no-intro/Nintendo - Nintendo DS.dat (aca304e78a6e585cfb16ac897d62e22f ) ^| 7,294
+| 11 | Nintendo  GameCube | dat/Nintendo - GameCube.dat (883715f4efd943e380dc03cefb046181 ) ^| 1,675
+| 12 | Nintendo  Wii | dat/Nintendo - Wii.dat (a5c8e45dd8477e6ca4df884c91bbfe6d ) ^| 8,203
+| 13 | Nintendo  Nintendo 3DS | dat/Nintendo - Nintendo 3DS.dat (d13b4f4d2b81a8e872f51b801970799a ) ^| 3,285
+| 14 | Nintendo  Wii U | dat/Nintendo - Wii U.dat (daf7db8ff382340efe74e0b602c1d3a2 ) ^| 2,875
+| 15 | Sega  SG1000 | metadat/no-intro/Sega - SG-1000.dat (14d4c7e0c14476f4f731a4ddedb7c5a4 ) ^| 207
+| 16 | Sega  Master System  Mark III | metadat/no-intro/Sega - Master System - Mark III.dat (19d6165c2616b47632970b54c8dd73fb ) ^| 610
+| 17 | Sega  Mega Drive  Genesis | metadat/no-intro/Sega - Mega Drive - Genesis.dat (4405fd3d57189bb3b892fd86338f1ab4 ) ^| 2,529
+| 18 | Sega  MegaCD  Sega CD | metadat/redump/Sega - Mega-CD - Sega CD.dat (e0e33a80eda693541720d27c02b9077d ) ^| 578
+| 19 | Sega  Game Gear | metadat/no-intro/Sega - Game Gear.dat (32bf748fe1f2ae16959ea0e5c088261e ) ^| 800
+| 20 | Sega  32X | metadat/no-intro/Sega - 32X.dat (a882d98b6c70562b0b056eb2b901e5ce ) ^| 207
+| 21 | Sega  Saturn | metadat/redump/Sega - Saturn.dat (aa1d733c9dd02204ba86ac1e7af0328b ) ^| 2,689
+| 22 | Sega  Dreamcast | metadat/redump/Sega - Dreamcast.dat (ab997de605a1ac94a05c85c45ec3340a ) ^| 1,664
+| 23 | Atari  2600 | metadat/no-intro/Atari - 2600.dat (4088c67ecb6d5a3067b8c334f18dbed0 ) ^| 716
+| 24 | Atari  5200 | metadat/no-intro/Atari - 5200.dat (7fc7e067ffde4f9770b87c09ae830b73 ) ^| 111
+| 25 | Atari  ST | metadat/no-intro/Atari - ST.dat (eb4a886f06db5f7fb9d5c65ac7f09ac9 ) ^| 404
+| 26 | Atari  7800 | metadat/no-intro/Atari - 7800.dat (55afe0385050aa713b054b3b422a8773 ) ^| 125
+| 27 | Atari  Lynx | metadat/no-intro/Atari - Lynx.dat (c96813fec95b28cdae691c37aa3d942c ) ^| 94
+| 28 | Atari  Jaguar | metadat/no-intro/Atari - Jaguar.dat (e576a7d2cf1e21ede144bb8f3f87ba5e ) ^| 208
+| 29 | NEC  PC Engine  TurboGrafx 16 | metadat/no-intro/NEC - PC Engine - TurboGrafx 16.dat (aa1520b13f8beab23063976a6a922c4a ) ^| 405
+| 30 | NEC  PC Engine CD  TurboGrafxCD | metadat/redump/NEC - PC Engine CD - TurboGrafx-CD.dat (618bcbbf9e36b15458cc336660aab07b ) ^| 221
+| 31 | NEC  PC Engine SuperGrafx | metadat/no-intro/NEC - PC Engine SuperGrafx.dat (1ba5b4352c015d18636a93cb9adcd29c ) ^| 5
+| 32 | SNK  Neo Geo CD | metadat/redump/SNK - Neo Geo CD.dat (3e4136d28c00b62d8f2351359e574dc5 ) ^| 133
+| 33 | SNK  Neo Geo Pocket | metadat/no-intro/SNK - Neo Geo Pocket.dat (a5f394e715ad3f7c895257313d88fb1c ) ^| 10
+| 34 | SNK  Neo Geo Pocket Color | metadat/no-intro/SNK - Neo Geo Pocket Color.dat (40ca8c2d9e902697701600cd6f0c4317 ) ^| 118
+| 35 | The 3DO Company  3DO | metadat/redump/The 3DO Company - 3DO.dat (349decf3953c40abfd072289c10298d0 ) ^| 604
+| 36 | Sony  PlayStation | metadat/redump/Sony - PlayStation.dat (3068b0ea97b2e3381014fb1fa7af38d1 ) ^| 13,514
+| 37 | Sony  PlayStation Portable | metadat/redump/Sony - PlayStation Portable.dat (68144e195423705749be32a4dd8a2ba2 ) ^| 2,589
+| 38 | Sony  PlayStation 2 | metadat/redump/Sony - PlayStation 2.dat (61ce126fcb2a0b3efb0d797f9b7b9a7d ) ^| 12,197
+| 39 | Sony  PlayStation 3 | metadat/redump/Sony - PlayStation 3.dat (9b96a42ee7782ae5a9f8c8c45e14535a ) ^| 0
+| 40 | Sony  PlayStation Vita | metadat/no-intro/Sony - PlayStation Vita.dat (1c6e0779950df06e3f39c635be07bffb ) ^| 240
+| 41 | Microsoft  Xbox | metadat/redump/Microsoft - Xbox.dat (ced2e2db64d6679e99b286a60236aa8a ) ^| 2,522
+| 42 | Microsoft  Xbox 360 | metadat/redump/Microsoft - Xbox 360.dat (82c81ceef1ebb790a9a4bd059439b8c0 ) ^| 0
+| 43 | Bandai  WonderSwan Color | metadat/no-intro/Bandai - WonderSwan Color.dat (8527a357c29c159f0ff23bd9e8c05b57 ) ^| 107
+| 44 | Bandai  WonderSwan | metadat/no-intro/Bandai - WonderSwan.dat (8cb412f94f0ef9e12c6c9d224dd72cd8 ) ^| 125
+| 45 | Commodore  64 | metadat/no-intro/Commodore - 64.dat (59a8954c474632e4851985a94b905237 ) ^| 237
+| 46 | Commodore  Amiga | metadat/no-intro/Commodore - Amiga.dat (274edbb9c42004b4dbed5ad2485a8608 ) ^| 3,151
+| 47 | Coleco  ColecoVision | metadat/no-intro/Coleco - ColecoVision.dat (8168185dac4baafd93b2e6dc4b8a1f1b ) ^| 191
+| 48 | Microsoft  MSX | metadat/no-intro/Microsoft - MSX.dat (388e3b67ef787283bc10b378c9c57db9 ) ^| 887
+| 49 | Microsoft  MSX2 | metadat/no-intro/Microsoft - MSX2.dat (435226f7081ce977ba81f3c5c62d43a0 ) ^| 191
+| 50 | Neo Geo |  ^| 0
+| 51 | Mattel Intellivision | metadat/no-intro/Mattel - Intellivision.dat (493e135ee9a5baa5000b42addc0d1c9c ) ^| 186
+| 52 | Magnavox Odissey 2 | metadat/no-intro/Magnavox - Odyssey2.dat (ff1273df6c833888f7e37291e91c6c78 ) ^| 131
+3+| Total ^| 118,323
+|=======================
