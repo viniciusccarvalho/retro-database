@@ -1,1 +1,4 @@
-inclide::platforms_mapping.adoc[]
+= Retro database project
+
+
+include::platforms_mapping.adoc[]
