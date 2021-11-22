@@ -36,4 +36,4 @@ Data is divided in three categories:
 
 The following tables represent the status of the database in approximate matching numbers.
 
-include::mapping_report.adoc
+include::mapping_report.adoc[]
