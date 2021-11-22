@@ -1,0 +1,162 @@
+=== TGDB
+[%header]
+|=======================
+| Id | Platform | Exact Match |  Similar | Missing
+| 1 | Arcade | 45% | 10% | 45%
+| 2 | Nintendo Entertainment System | 76% | 10% | 14%
+| 3 | Nintendo Family Computer Disk System | 65% | 16% | 19%
+| 4 | Nintendo Game Boy | 61% | 11% | 27%
+| 5 | Nintendo  Super Nintendo Entertainment System | 73% | 13% | 13%
+| 6 | Nintendo  Game Boy Color | 65% | 16% | 19%
+| 7 | Nintendo  Virtual Boy | 79% | 12% | 9%
+| 8 | Nintendo  Nintendo 64 | 76% | 9% | 15%
+| 9 | Nintendo  Game Boy Advance | 64% | 16% | 20%
+| 10 | Nintendo  Nintendo DS | 49% | 14% | 38%
+| 11 | Nintendo  GameCube | 79% | 11% | 10%
+| 12 | Nintendo  Wii | 42% | 15% | 43%
+| 13 | Nintendo  Nintendo 3DS | 47% | 9% | 44%
+| 14 | Nintendo  Wii U | 47% | 9% | 43%
+| 15 | Sega  SG1000 | 87% | 5% | 7%
+| 16 | Sega  Master System  Mark III | 75% | 8% | 17%
+| 17 | Sega  Mega Drive  Genesis | 82% | 8% | 10%
+| 18 | Sega  MegaCD  Sega CD | 81% | 7% | 12%
+| 19 | Sega  Game Gear | 82% | 10% | 9%
+| 20 | Sega  32X | 82% | 4% | 14%
+| 21 | Sega  Saturn | 68% | 18% | 15%
+| 22 | Sega  Dreamcast | 53% | 14% | 33%
+| 23 | Atari  2600 | 85% | 5% | 9%
+| 24 | Atari  5200 | 86% | 4% | 11%
+| 25 | Atari  ST | 28% | 7% | 65%
+| 26 | Atari  7800 | 95% | 0% | 5%
+| 27 | Atari  Lynx | 97% | 1% | 2%
+| 28 | Atari  Jaguar | 78% | 5% | 17%
+| 29 | NEC  PC Engine  TurboGrafx 16 | 80% | 14% | 6%
+| 30 | NEC  PC Engine CD  TurboGrafxCD | 50% | 19% | 31%
+| 31 | NEC  PC Engine SuperGrafx | 40% | 20% | 40%
+| 32 | SNK  Neo Geo CD | 32% | 25% | 43%
+| 33 | SNK  Neo Geo Pocket | 60% | 40% | 0%
+| 34 | SNK  Neo Geo Pocket Color | 69% | 25% | 6%
+| 35 | The 3DO Company  3DO | 58% | 10% | 31%
+| 36 | Sony  PlayStation | 50% | 15% | 35%
+| 37 | Sony  PlayStation Portable | 71% | 11% | 18%
+| 38 | Sony  PlayStation 2 | 59% | 16% | 25%
+| 40 | Sony  PlayStation Vita | 90% | 8% | 2%
+| 41 | Microsoft  Xbox | 75% | 14% | 10%
+| 43 | Bandai  WonderSwan Color | 76% | 19% | 6%
+| 44 | Bandai  WonderSwan | 79% | 13% | 8%
+| 45 | Commodore  64 | 50% | 8% | 43%
+| 46 | Commodore  Amiga | 49% | 10% | 41%
+| 47 | Coleco  ColecoVision | 87% | 4% | 9%
+| 48 | Microsoft  MSX | 69% | 7% | 24%
+| 49 | Microsoft  MSX2 | 57% | 13% | 31%
+| 51 | Mattel Intellivision | 75% | 8% | 17%
+| 52 | Magnavox Odissey 2 | 87% | 3% | 10%
+|=======================
+=== GIANTBOMB
+[%header]
+|=======================
+| Id | Platform | Exact Match |  Similar | Missing
+| 1 | Arcade | 23% | 10% | 67%
+| 2 | Nintendo Entertainment System | 68% | 10% | 22%
+| 3 | Nintendo Family Computer Disk System | 54% | 21% | 25%
+| 4 | Nintendo Game Boy | 48% | 12% | 40%
+| 5 | Nintendo  Super Nintendo Entertainment System | 80% | 10% | 9%
+| 6 | Nintendo  Game Boy Color | 41% | 16% | 43%
+| 7 | Nintendo  Virtual Boy | 64% | 12% | 24%
+| 8 | Nintendo  Nintendo 64 | 70% | 10% | 20%
+| 9 | Nintendo  Game Boy Advance | 47% | 16% | 37%
+| 10 | Nintendo  Nintendo DS | 42% | 16% | 42%
+| 11 | Nintendo  GameCube | 65% | 11% | 24%
+| 12 | Nintendo  Wii | 28% | 16% | 56%
+| 13 | Nintendo  Nintendo 3DS | 34% | 4% | 62%
+| 14 | Nintendo  Wii U | 66% | 9% | 25%
+| 15 | Sega  SG1000 | 28% | 10% | 63%
+| 16 | Sega  Master System  Mark III | 51% | 11% | 38%
+| 17 | Sega  Mega Drive  Genesis | 61% | 12% | 27%
+| 18 | Sega  MegaCD  Sega CD | 65% | 8% | 26%
+| 19 | Sega  Game Gear | 41% | 11% | 48%
+| 20 | Sega  32X | 79% | 3% | 17%
+| 21 | Sega  Saturn | 44% | 14% | 42%
+| 22 | Sega  Dreamcast | 51% | 11% | 38%
+| 23 | Atari  2600 | 41% | 6% | 53%
+| 24 | Atari  5200 | 51% | 2% | 47%
+| 25 | Atari  ST | 24% | 7% | 69%
+| 26 | Atari  7800 | 60% | 0% | 40%
+| 27 | Atari  Lynx | 33% | 2% | 65%
+| 28 | Atari  Jaguar | 78% | 3% | 19%
+| 29 | NEC  PC Engine  TurboGrafx 16 | 78% | 12% | 10%
+| 30 | NEC  PC Engine CD  TurboGrafxCD | 38% | 8% | 54%
+| 31 | NEC  PC Engine SuperGrafx | 60% | 20% | 20%
+| 32 | SNK  Neo Geo CD | 22% | 23% | 55%
+| 33 | SNK  Neo Geo Pocket | 20% | 50% | 30%
+| 34 | SNK  Neo Geo Pocket Color | 46% | 36% | 18%
+| 35 | The 3DO Company  3DO | 36% | 5% | 59%
+| 36 | Sony  PlayStation | 45% | 15% | 41%
+| 37 | Sony  PlayStation Portable | 23% | 20% | 58%
+| 38 | Sony  PlayStation 2 | 53% | 16% | 31%
+| 40 | Sony  PlayStation Vita | 70% | 12% | 18%
+| 41 | Microsoft  Xbox | 59% | 11% | 30%
+| 43 | Bandai  WonderSwan Color | 21% | 14% | 64%
+| 44 | Bandai  WonderSwan | 23% | 11% | 66%
+| 45 | Commodore  64 | 24% | 7% | 68%
+| 46 | Commodore  Amiga | 24% | 8% | 67%
+| 47 | Coleco  ColecoVision | 43% | 6% | 51%
+| 48 | Microsoft  MSX | 23% | 5% | 72%
+| 49 | Microsoft  MSX2 | 21% | 9% | 70%
+| 51 | Mattel Intellivision | 51% | 4% | 45%
+| 52 | Magnavox Odissey 2 | 1% | 0% | 99%
+|=======================
+=== IGDB
+[%header]
+|=======================
+| Id | Platform | Exact Match |  Similar | Missing
+| 1 | Arcade | 19% | 12% | 69%
+| 2 | Nintendo Entertainment System | 22% | 13% | 65%
+| 3 | Nintendo Family Computer Disk System | 33% | 11% | 55%
+| 4 | Nintendo Game Boy | 32% | 12% | 56%
+| 5 | Nintendo  Super Nintendo Entertainment System | 30% | 16% | 54%
+| 6 | Nintendo  Game Boy Color | 32% | 16% | 52%
+| 7 | Nintendo  Virtual Boy | 91% | 0% | 9%
+| 8 | Nintendo  Nintendo 64 | 45% | 14% | 40%
+| 9 | Nintendo  Game Boy Advance | 37% | 23% | 40%
+| 10 | Nintendo  Nintendo DS | 25% | 16% | 59%
+| 11 | Nintendo  GameCube | 18% | 9% | 73%
+| 12 | Nintendo  Wii | 20% | 14% | 66%
+| 13 | Nintendo  Nintendo 3DS | 0% | 1% | 99%
+| 14 | Nintendo  Wii U | 21% | 13% | 66%
+| 15 | Sega  SG1000 | 24% | 8% | 68%
+| 16 | Sega  Master System  Mark III | 26% | 7% | 67%
+| 17 | Sega  Mega Drive  Genesis | 32% | 11% | 57%
+| 18 | Sega  MegaCD  Sega CD | 28% | 5% | 67%
+| 19 | Sega  Game Gear | 31% | 6% | 63%
+| 20 | Sega  32X | 55% | 5% | 40%
+| 21 | Sega  Saturn | 17% | 13% | 70%
+| 22 | Sega  Dreamcast | 21% | 12% | 67%
+| 23 | Atari  2600 | 49% | 8% | 43%
+| 24 | Atari  5200 | 7% | 2% | 91%
+| 25 | Atari  ST | 3% | 2% | 95%
+| 26 | Atari  7800 | 27% | 2% | 71%
+| 27 | Atari  Lynx | 49% | 3% | 48%
+| 28 | Atari  Jaguar | 49% | 2% | 49%
+| 29 | NEC  PC Engine  TurboGrafx 16 | 39% | 18% | 44%
+| 30 | NEC  PC Engine CD  TurboGrafxCD | 12% | 5% | 84%
+| 31 | NEC  PC Engine SuperGrafx | 20% | 20% | 60%
+| 32 | SNK  Neo Geo CD | 3% | 18% | 79%
+| 33 | SNK  Neo Geo Pocket | 10% | 70% | 20%
+| 34 | SNK  Neo Geo Pocket Color | 58% | 28% | 14%
+| 35 | The 3DO Company  3DO | 23% | 7% | 70%
+| 36 | Sony  PlayStation | 23% | 21% | 56%
+| 37 | Sony  PlayStation Portable | 34% | 16% | 50%
+| 38 | Sony  PlayStation 2 | 22% | 20% | 58%
+| 40 | Sony  PlayStation Vita | 24% | 12% | 64%
+| 41 | Microsoft  Xbox | 13% | 9% | 78%
+| 43 | Bandai  WonderSwan Color | 64% | 21% | 15%
+| 44 | Bandai  WonderSwan | 66% | 18% | 16%
+| 45 | Commodore  64 | 5% | 4% | 91%
+| 46 | Commodore  Amiga | 9% | 6% | 85%
+| 47 | Coleco  ColecoVision | 25% | 4% | 71%
+| 48 | Microsoft  MSX | 16% | 6% | 78%
+| 49 | Microsoft  MSX2 | 6% | 1% | 94%
+| 51 | Mattel Intellivision | 41% | 6% | 52%
+| 52 | Magnavox Odissey 2 | 12% | 2% | 86%
+|=======================

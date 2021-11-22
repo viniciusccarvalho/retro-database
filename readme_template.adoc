@@ -14,3 +14,26 @@ Inside the `data` folder there's a main `roms.csv` file that contains all the pa
 that are included in the latest release of the data file.
 
 include::platforms_mapping.adoc[]
+
+= Mapping roms to video games databases
+
+The roms database would allow anyone to write their own scrapper to match roms using either their file checksums or headers (Mega Drive, Saturn, Gamecube) for example.
+
+But it would be nice to associate those roms with data from services such as https://thegamesdb.net/(The Games DB), https://www.igdb.com/(IGDB) or https://www.giantbomb.com/(Giantbomb), all of which provide a free public api for use.
+
+So I've wrote a small search algorithm to match roms from the `roms.csv` to each of these services, and the result is in the `data` folder as `game_similarity.csv`.
+
+The match is not ideal, a lot of preprocessing was needed in the roms (escaping chars, removing diacritical characters) and sometimes even the best effort would yield mismatches such as `Disney's Aladdin` does not exact match `Aladdin` although
+they are the same game.
+
+But it feels this is a good step if someone decides to manually correct the data.
+
+Data is divided in three categories:
+
+* Exact Match: The cleaned rom name is an exact match of the game name on the target service.
+* Similar Match: The name is not an exact match, but the https://en.wikipedia.org/wiki/Metaphone(Double Metaphone) comparison of both cleaned strings are the same. This is where `Disney Aladdin` and `Aladdin` would yield a Match.
+* Missing: Not exact match and the metaphone comparison is also false. Some entries in this category are an actual match, so after manual cleansing the number of match results could be even higher.
+
+The following tables represent the status of the database in approximate matching numbers.
+
+include::mapping_report.adoc
