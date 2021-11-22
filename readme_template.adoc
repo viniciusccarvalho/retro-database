@@ -1,4 +1,16 @@
 = Retro database project
 
+Database files based on the https://github.com/libretro/libretro-database[libreto-database].
+
+The libretro project contains a database of several rom files from different sources such as a https://no-intro.org/[no-intro]. Those dat files
+however are sometimes on a particular format that is not easy to parse.
+
+I wrote a small ANTLR based parser https://github.com/viniciusccarvalho/libretro-dat-parser[libretro-dat-parser] to parse those files and export them as a csv file.
+
+
+= Supported files and platforms
+
+Inside the `data` folder there's a main `roms.csv` file that contains all the parsed roms from the several dat files. The table bellow shows what files (and checksums)
+that are included in the latest release of the data file.
 
 include::platforms_mapping.adoc[]
